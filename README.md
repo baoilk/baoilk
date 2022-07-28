@@ -6,7 +6,7 @@
 - 💬 Feel free to give constructive critism!
 - 🌙 Contact me via discord, prongs#5754!
 
-<p>🪶 twitter | <a href="https://codepen.io/baoilk">⚡ codepen</a> | 🏷️ linkedin | <a href="https://gist.github.com/baoilk/5dcafcdbbefc0530815a65a809367ef5">💻 scrimba notes</a>
+<p>🪶 twitter | ⚡<a href="https://codepen.io/baoilk">codepen</a> | 🏷️ linkedin | 💻<a href="https://gist.github.com/baoilk/5dcafcdbbefc0530815a65a809367ef5">scrimba notes</a>
 
 
 
