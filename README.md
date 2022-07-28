@@ -1,6 +1,6 @@
 <h2>Hey, I'm Bo (<a href="https://pronouny.xyx/u/baoilk">he/they</a>) ✨</h2>
 
-<h1>I'm a beginner self taught programmer!</h1>
+<h1>I'm a beginning self taught programmer!</h1>
 
 - 🌱 I’m currently learning Javascript.
 - 💬 Feel free to give constructive critism!
