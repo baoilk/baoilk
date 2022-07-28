@@ -2,7 +2,7 @@
 
 <h1>I'm a beginning coder and experienced writer!</h1>
 
-- 🌱 I’m currently learning HTML and CSS.
+- 🌱 I’m currently learning Javascript.
 - 💬 Feel free to give constructive critism!
 - 🌙 Contact me via discord, prongs#5754!
 
