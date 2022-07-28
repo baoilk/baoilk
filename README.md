@@ -1,4 +1,4 @@
-<h2>Hey, I'm Bo (<a href="https://pronouny.xyx/u/tubox">he/they</a>) ✨</h2>
+<h2>Hey, I'm Bo (<a href="https://pronouny.xyx/u/baoilk">he/they</a>) ✨</h2>
 
 <h1>I'm a beginning coder and experienced writer!</h1>
 
