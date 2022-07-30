@@ -2,7 +2,7 @@
 
 <h1>I'm a beginning self taught programmer!</h1>
 
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning CSS Grid and Javascript.
 - 💬 Feel free to give constructive critism!
 - 🌙 Contact me via discord, prongs#5754!
 
