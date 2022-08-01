@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, CSS Grid**
 
-- ⚡ Fun fact **I love playing games, especially <a href="https://pronouny.xyz/u/baoilk" /> Splatoon 2!</a>**
+- ⚡ Fun fact **I love playing games, especially <a href="https://sendou.ink/u/squiffy" /> Splatoon 2!</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
