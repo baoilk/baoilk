@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a Netflix clone!**
 
-- 🌱 I’m currently learning **React, CSS Grid**
+- 🌱 I’m currently learning **React, Git, and Java**
 
 - ⚡ Fun fact **I love playing games, especially <a href="https://sendou.ink/u/squiffy" /> Splatoon 2!</a>**
 
