@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Bo <a href="https://pronouny.xyz/u/baoilk"/> (he/they)</a> ✨</h1>
 <h3 align="center">A junior frontend developer, plant parent, and competitive gamer!</h3>
-<img align="right" width="400" src="https://picrew.me/shareImg/org/202208/1473879_aNwfKKQ4.png"
+<a href="https://href.li/?https://www.instagram.com/potato_lord_but_not/" target="blank"><img align="right" width="400" src="https://picrew.me/shareImg/org/202208/1473879_aNwfKKQ4.png" /></a>
 
 <p align="left"> <a href="https://twitter.com/sleepyprongs" target="blank"><img src="https://img.shields.io/twitter/follow/sleepyprongs?logo=twitter&style=for-the-badge" alt="sleepyprongs" /></a> </p>
 
